@@ -238,12 +238,43 @@ Use Stripe test cards for testing payments:
 
 ## Deployment
 
-### Backend (Heroku/Railway/Render)
+### Docker & Kubernetes (Recommended for Production)
+
+**Automated CI/CD with GitHub Actions:**
+- **Create a release** on GitHub to trigger automatic Docker image builds
+- Images pushed to GitHub Container Registry (GHCR)
+- Multi-architecture support (amd64, arm64)
+- Security scanning with Trivy
+- Semantic versioning with automatic tagging
+
+**Quick Deploy to Kubernetes:**
+```bash
+# 1. Configure secrets
+kubectl create secret generic ecommerce-secrets \
+  --from-literal=MONGODB_URI='your-mongodb-uri' \
+  --from-literal=JWT_SECRET='your-jwt-secret' \
+  --namespace=ecommerce
+
+# 2. Deploy application
+./scripts/deploy.sh
+
+# 3. Check status
+kubectl get all -n ecommerce
+```
+
+📚 **Detailed guides:**
+- [Release Guide](RELEASE_GUIDE.md) - How to create releases
+- [Docker Build Guide](DOCKER_BUILD.md)
+- [Kubernetes Deployment Guide](KUBERNETES_DEPLOYMENT.md)
+
+### Traditional Deployment
+
+#### Backend (Heroku/Railway/Render)
 1. Set environment variables
 2. Update `CLIENT_URL` to production frontend URL
 3. Deploy
 
-### Frontend (Vercel/Netlify)
+#### Frontend (Vercel/Netlify)
 1. Set `VITE_API_URL` to production backend URL
 2. Set `VITE_STRIPE_PUBLISHABLE_KEY`
 3. Build and deploy
