@@ -1,6 +1,6 @@
 # E-Commerce Platform
 
-> **Built by Afner Sirait** | Full-Stack Developer
+> **Built by Afner Sirait**
 
 A modern, production-ready e-commerce platform that I built from scratch using the MERN stack (MongoDB, Express, React, Node.js) with Stripe payment integration. This project showcases my expertise in full-stack development, modern web technologies, and best practices in software engineering.
 
