@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "author": "Afner Sirait <afner.sirait@example.com> (https://github.com/afnersirait)",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
