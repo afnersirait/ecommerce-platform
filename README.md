@@ -1,9 +1,5 @@
 # E-Commerce Platform
 
-> **Built by Afner Sirait**
-
-A modern, production-ready e-commerce platform that I built from scratch using the MERN stack (MongoDB, Express, React, Node.js) with Stripe payment integration. This project showcases my expertise in full-stack development, modern web technologies, and best practices in software engineering.
-
 ## Features
 
 ### Customer Features
@@ -343,7 +339,7 @@ I'm passionate about building scalable, user-friendly web applications. This e-c
 ### Connect with Me
 
 - **GitHub**: [@afnersirait](https://github.com/afnersirait)
-- **Email**: afner.sirait@example.com
+- **Email**: afnersirait@gmail.com
 - **LinkedIn**: [linkedin.com/in/afnersirait](https://linkedin.com/in/afnersirait)
 
 ## Contributing
@@ -360,7 +356,7 @@ I welcome contributions! If you'd like to improve this project:
 
 If you have questions or need help with this project, feel free to:
 - Open an issue in this repository
-- Contact me directly at afner.sirait@example.com
+- Contact me directly at afnersirait@gmail.com
 
 ## Acknowledgments
 
@@ -374,6 +370,4 @@ Special thanks to the amazing open-source community and the technologies that ma
 
 ---
 
-**© 2024-2026 Afner Sirait. All rights reserved.**
-
-*This project was created as a portfolio piece to demonstrate full-stack development capabilities.*
+**©2025 Afner Sirait. All rights reserved.**
