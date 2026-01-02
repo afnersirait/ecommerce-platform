@@ -321,52 +321,11 @@ I'm continuously improving this project. Here's what I'm planning to add:
 - [ ] 🎟️ Coupon and discount system
 - [ ] 🏪 Multi-vendor marketplace support
 
-## About the Developer
-
-**Afner Sirait** - Full-Stack Developer
-
-I'm passionate about building scalable, user-friendly web applications. This e-commerce platform demonstrates my ability to:
-
-- 🎯 Design and implement complex full-stack applications
-- 🔒 Build secure authentication and authorization systems
-- 💳 Integrate third-party payment gateways (Stripe)
-- 🎨 Create modern, responsive user interfaces
-- ☁️ Deploy applications using Docker and Kubernetes
-- 🔄 Set up CI/CD pipelines with GitHub Actions
-- 📊 Manage databases and optimize queries
-- 🛡️ Implement security best practices
-
 ### Connect with Me
 
 - **GitHub**: [@afnersirait](https://github.com/afnersirait)
 - **Email**: afnersirait@gmail.com
 - **LinkedIn**: [linkedin.com/in/afnersirait](https://linkedin.com/in/afnersirait)
 
-## Contributing
 
-I welcome contributions! If you'd like to improve this project:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## Support
-
-If you have questions or need help with this project, feel free to:
-- Open an issue in this repository
-- Contact me directly at afnersirait@gmail.com
-
-## Acknowledgments
-
-Special thanks to the amazing open-source community and the technologies that made this project possible:
-
-- **Stripe** - For reliable payment processing
-- **MongoDB** - For flexible data storage
-- **React** - For building the user interface
-- **TailwindCSS** - For beautiful, responsive styling
-- **Lucide** - For clean, modern icons
-
----
 
