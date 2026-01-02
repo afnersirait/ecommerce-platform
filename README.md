@@ -370,4 +370,3 @@ Special thanks to the amazing open-source community and the technologies that ma
 
 ---
 
-**©2025 Afner Sirait. All rights reserved.**
